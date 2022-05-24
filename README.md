@@ -19,6 +19,7 @@ First off, welcome to StudentDAO. This is a community for all students intereste
 * [The Complete Guide to Full Stack Ethereum Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13)
 * [The Complete Guide to Full Stack Web3 Development](https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74)
 * [Buildspace](https://buildspace.so/projects)
+* [Getting Started With Chainlink](https://docs.chain.link/docs/conceptual-overview/)
 
 # Helpful Documentation
 * [Ethereum Developer Documentation](https://ethereum.org/en/developers/docs/)
