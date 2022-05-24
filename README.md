@@ -1,5 +1,6 @@
 # resources
-A collection of useful resources for StudentDAO members
+
+Welcome to the [StudentDAO](https://github.com/joinstudentdao) **knowledge base**.
 
 
 # Attribution
