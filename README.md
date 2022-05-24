@@ -31,6 +31,7 @@ First off, welcome to StudentDAO. This is a community for all students intereste
 * [Remix IDE](https://remix.ethereum.org/)
 * [Etherscan](https://etherscan.io/)
 * [Dune Dashboards](https://dune.com/home)
+* [useweb3.xyz](https://www.useweb3.xyz/)
 
 # Helpful Articles
 
