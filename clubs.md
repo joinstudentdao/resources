@@ -1,1 +1,1 @@
-# Club / University Highlighted Repos
+# Club + University Highlighted Repos
