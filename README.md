@@ -8,7 +8,6 @@ The community has built this repository for members of StudentDAO from all backg
 
 First off, welcome to StudentDAO. This is a community for all students interested in web3, regardless of your background. We prefer hands on learning and connection over learning in a silo. We encourage collaboration and love to hear your feedback. 
 
-# What is Web3, the non-technical explanation
 
 # How to read smart contracts without knowing solidity
 * [How to read smart contracts](https://bowtiedisland.com/how-to-read-smart-contracts-without-learning-solidity/)
@@ -25,7 +24,12 @@ First off, welcome to StudentDAO. This is a community for all students intereste
 * [Ethereum Developer Documentation](https://ethereum.org/en/developers/docs/)
 * [Solidity Docs](https://docs.soliditylang.org/en/v0.8.8/index.html)
 * [Solidity By Example](https://docs.soliditylang.org/en/v0.8.8/solidity-by-example.html)
-* 
+
+# Tools
+* [DAO Tooling Open Source Library](https://docs.google.com/spreadsheets/d/1YRfIhcckhdNi9xSaCpCIDc2VV5HkprLlnp7lbTh5Txk/edit#gid=464771811)
+* [Remix IDE](https://remix.ethereum.org/)
+* [Etherscan](https://etherscan.io/)
+* [Dune Dashboards](https://dune.com/home)
 
 # Helpful Articles
 
