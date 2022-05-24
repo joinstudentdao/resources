@@ -37,7 +37,6 @@ First off, welcome to StudentDAO. This is a community for all students intereste
 * [How to get into web3 as a developer](https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6)
 * [How to learn solidity (the fun way)](https://www.nateliason.com/blog/learn-solidity)
 
-# Club Highlights
 
 # Job Boards
 * [Buildspace Jobs](https://buildspace.so/jobs)
